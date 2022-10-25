@@ -115,10 +115,10 @@ const components = [
       "code": "TR",
       "name": "TRANSMISSION"
     },
-    // {
-    //     "code": "B2",
-    //     "name": "SEAT BELT BUCKLE ROW 2"
-    //   },
+    {
+        "code": "B2",
+        "name": "SEAT BELT BUCKLE ROW 2"
+      },
   
   ]
 
